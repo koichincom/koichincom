@@ -1,4 +1,4 @@
-[![Top Langs](https://github-readme-stats-three-rho-29.vercel.app/api/top-langs/?username=koichincom&layout=donut&count_private=true&exclude_repo=github-readme-stats)](https://github.com/koichincom/github-readme-stats)
+<!--This includes private repository-->
+<!--[![Top Langs](https://github-readme-stats-three-rho-29.vercel.app/api/top-langs/?username=koichincom&layout=donut&count_private=true&exclude_repo=github-readme-stats)](https://github.com/koichincom/github-readme-stats)-->
 
-# Only Public Repository
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koichincom&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
