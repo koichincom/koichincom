@@ -1,1 +1,2 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koichincom&layout=compact)
+![Overview](https://raw.githubusercontent.com/koichincom/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![Languages](https://raw.githubusercontent.com/koichincom/github-stats/master/generated/languages.svg#gh-light-mode-only)
